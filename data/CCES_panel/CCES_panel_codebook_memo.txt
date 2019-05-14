@@ -1,0 +1,62 @@
+# 5/2/2019
+# CCES panel codebook memo
+
+
+Vote validation
+1   absentee 
+2   early
+3   mail 
+4   in person or unknown method
+6   confirmed nonvoter
+9   unmatched
+
+Registration validation
+1   registered
+2   previously registered but dropped or in
+3   on multiple registration lists
+4   not registered
+9   unmatched
+
+
+CC10 330A Roll Call Votes – American Recovery and Reinvestment Act
+CC10 330B Roll Call Votes – State Children’s Health Insurance Program
+CC10 330C Roll Call Votes – American Clean Energy and Security Act
+CC10 330D Roll Call Votes – Affordable Care Act
+CC10 330E Roll Call Votes – Appoint Elena Kagan to U.S. Supreme Court 
+CC10 330F Roll Call Votes – American Fiscal Stability Act
+CC10 330G Roll Call Votes – End Don’t Ask Don’t Tell
+CC10 330H Roll Call Votes – Federal Intelligence
+CC10 330I Roll Call Votes – Stem Cell Research
+CC10 330J Roll Call Votes – Troubled Asset Relief Program
+
+CC12 330A Roll Call Vote Approval – American Recovery and Reinvestment Act 
+CC12 330B Roll Call Vote Approval – State Children’s Health Insurance Program 
+CC12 330C Roll Call Vote Approval – American Clean Energy and Security Act 
+CC12 330D Roll Call Vote Approval – Affordable Care Act
+CC12 330E Roll Call Vote Approval – Appoint Elena Kagan to U.S. Supreme Court 
+CC12 330F Roll Call Vote Approval – American Fiscal Stability Act
+CC12 330G Roll Call Vote Approval – End Don’t Ask Don’t Tell
+CC12 330H Roll Call Vote Approval – Stem Cell Research
+CC12 332A Roll Call Vote Approval – Ryan Budget Bill
+CC12 332B Roll Call Vote Approval – Simpson-Bowles Budget Plan
+CC12 332C Roll Call Vote Approval – Middle Class Tax Cut Act
+CC12 332D Roll Call Vote Approval – Tax Hike Prevention Act
+CC12 332E Roll Call Vote Approval – Birth Control Exemption
+CC12 332F Roll Call Vote Approval – U.S.-Korea Free Trade Agreement 
+CC12 332G Roll Call Vote Approval – Repeal Affordable Care Act
+CC12 332H Roll Call Vote Approval – Keystone Pipeline
+
+CC14 330A Roll Call Votes - Recovery and Reinvestment
+CC14 330B Roll Call Votes - Children’s Health Insurance
+CC14 330C Roll Call Votes - Clean Energy
+CC14 330D Roll Call Votes - Health Reform
+CC14 330E Roll Call Votes - Elena Kagan
+CC14 330F Roll Call Votes - Financial Reform Bill
+CC14 330G Roll Call Votes - Don’t Ask, Don’t Tell
+CC14 330H Roll Call Votes - Stem Cell Research
+CC14 332A Roll Call Votes - Ryan Budget Bill
+CC14 332B Roll Call Votes - Simpson-Bowles Budget Plan
+CC14 332C Roll Call Votes - Middle Class Tax Cut Act
+CC14 332D Roll Call Votes - Tax Hike Prevention Act
+CC14 332E Roll Call Votes - Birth Control Exemption
+CC14 332F Roll Call Votes - U.S.-Korea Free Trade Agreement
